@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Champion REIT Entrepreneur In Action 2020
 
-You can use the [editor on GitHub](https://github.com/championhk/2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website will give you important information and useful links to facillitate your competition.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
